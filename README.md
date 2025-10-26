@@ -1,6 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Sidrah Rashid</h1>
 <h3 align="center">An IT student | Aspiring Data Scientist</h3>
 
+![Header](https://raw.githubusercontent.com/sidrahrashid/sidrahrashid/main/assets/header.png)
+
+
 ---
 
 ### 🌱 About Me
