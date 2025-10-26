@@ -1,9 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sidrah Rashid</h1>
-<h3 align="center">An IT student | Aspiring Data Scientist</h3>
-
-<p align="center">
-  <a href="[portfolio-kqu76r16v-sidrahrashids-projects.vercel.app](https://portfolio-tau-eight-so61lw5okm.vercel.app/)" target="_blank">💻 View my portfolio</a> • Aspiring Data Scientist • ML, Python, Flask
-</p>
+<h3 align="center">An IT student | Aspiring Data Scientist | ML, Python, Flask</h3>
 
 <p align="center">
   <a href="https://portfolio-tau-eight-so61lw5okm.vercel.app/">
