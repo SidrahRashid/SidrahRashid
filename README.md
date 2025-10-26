@@ -22,7 +22,7 @@
 ### 🚀 Featured Projects
 - 🧠 LLM Based ChatBot- https://lnkd.in/ehPNwBkn
 - ♻️ Period Tracker - 🌐 https://sidrahrashid.pythonanywhere.com 
-- 🌾 [AI Disease Diagnosis Portal for Farmers](#)  
+-  Fraud Detection Model
 
 ---
 
