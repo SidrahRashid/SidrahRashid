@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Sidrah Rashid</h1>
+<h3 align="center">An IT student | Assistant Head of Tech Club | Aspiring Data Scientist</h3>
 
-<!--
-**SidrahRashid/SidrahRashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌱 About Me
+- 🔭 Currently working on **AI/ML, Data Science, Python, Flask, API**
+- 🌍 Passionate about **AI ethics, and sustainable tech**
+- 💬 Ask me about **Python, Machine Learning, and Hackathon Projects**
+- ⚡ Fun fact: I love crochet, painting, and journaling and creating content— check out my creative page [@takhayyul.by.sidrah](https://www.instagram.com/takhayyul.by.sidrah/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+**Languages:** Python, HTML, CSS  
+**Frameworks:** Flask, PyTorch, TensorFlow, React  
+**Tools:** Git, VS Code, Render, JupyterNotebook
+**Databases:** MySQL, MongoDB, SQLite
+
+---
+
+### 🚀 Featured Projects
+- 🧠 LLM Based ChatBot- https://lnkd.in/ehPNwBkn
+- ♻️ Period Tracker - 🌐 https://sidrahrashid.pythonanywhere.com 
+- 🌾 [AI Disease Diagnosis Portal for Farmers](#)  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sidrahrashid&show_icons=true&theme=tokyonight" alt="Sidrah's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidrahrashid&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/sidrahrashid"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:sidrahrashid799@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.instagram.com/takhayyul.by.sidrah"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"></a>
+</p>
