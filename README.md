@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="[portfolio-kqu76r16v-sidrahrashids-projects.vercel.app](https://portfolio-tau-eight-so61lw5okm.vercel.app/)">
+  <a href="https://portfolio-tau-eight-so61lw5okm.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FFB86B?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio"/>
   </a>
 </p>
