@@ -1,14 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Sidrah Rashid</h1>
 <h3 align="center">An IT student | Aspiring Data Scientist | ML, Python, Flask</h3>
 
+
 <p align="center">
   <a href="https://portfolio-tau-eight-so61lw5okm.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FFB86B?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio"/>
-
+  </a>
   <a href="https://portfolio-tau-eight-so61lw5okm.vercel.app/resume.pdf">
-    <img src="https://img.shields.io/badge/View-my-Resume-FFB86B?style=for-the-badge&logo=vercel&logoColor=white" alt="View My Resume"/>
+    <img src="https://img.shields.io/badge/📄-View%20My%20Resume-FFB86B?style=for-the-badge&logo=adobe&logoColor=white" alt="View Resume"/>
   </a>
 </p>
+
 
 ---
 
