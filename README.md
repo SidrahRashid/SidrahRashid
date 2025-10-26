@@ -4,8 +4,9 @@
 <p align="center">
   <a href="https://portfolio-tau-eight-so61lw5okm.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FFB86B?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio"/>
- ### 📄 [View My Resume](https://portfolio-tau-eight-so61lw5okm.vercel.app/resume.pdf)
 
+  <a href="https://portfolio-tau-eight-so61lw5okm.vercel.app/resume.pdf">
+    <img src="https://img.shields.io/badge/View-my-Resume-FFB86B?style=for-the-badge&logo=vercel&logoColor=white" alt="View My Resume"/>
   </a>
 </p>
 
