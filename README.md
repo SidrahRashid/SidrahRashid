@@ -1,6 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Sidrah Rashid</h1>
 <h3 align="center">An IT student | Aspiring Data Scientist</h3>
 
+<p align="center">
+  <a href="https://your-vercel-url.vercel.app" target="_blank">💻 View my portfolio</a> • Aspiring Data Scientist • ML, Python, Flask
+</p>
+
+<p align="center">
+  <a href="https://your-vercel-url.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FFB86B?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio"/>
+  </a>
+</p>
+
 ---
 
 ### 🌱 About Me
